@@ -1,0 +1,21 @@
+body {
+  background: blanchedalmond;
+}
+
+h1 {
+  text-align: center;
+}
+.pages {
+  text-align: center;
+}
+.home {
+  margin: 20px;
+  color: green;
+}
+.photo {
+  margin: 20px;
+  color: green;
+}
+.contact {
+  color: green;
+}
