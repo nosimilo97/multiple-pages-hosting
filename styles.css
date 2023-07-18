@@ -19,3 +19,12 @@ h1 {
 .contact {
   color: green;
 }
+img {
+  width: 80%;
+  display: block;
+  margin: 0 auto;
+  border-radius: 4px;
+}
+.more-info {
+  text-align: center;
+}
